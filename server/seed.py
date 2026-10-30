@@ -13,8 +13,8 @@ def seed():
 
         # Create super admin user
         super_admin = User(
-            username="peter",
-            email="muriukimunenepierr@gmail.com",
+            username="chichi",
+            email="cynthia1973chichi@gmail.com",
             role="super_admin",
             company_id=None,
             department_id=None
